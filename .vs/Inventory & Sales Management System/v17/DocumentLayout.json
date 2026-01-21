@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E4616D-9D99-460C-8717-17C624C24349}|Inventory \u0026 Sales Management System\\Inventory \u0026 Sales Management System.csproj|C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\inventory \u0026 sales management system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3E4616D-9D99-460C-8717-17C624C24349}|Inventory \u0026 Sales Management System\\Inventory \u0026 Sales Management System.csproj|solutionrelative:inventory \u0026 sales management system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E4616D-9D99-460C-8717-17C624C24349}|Inventory \u0026 Sales Management System\\Inventory \u0026 Sales Management System.csproj|c:\\users\\alnoo\\onedrive\\documents\\desktop\\inventory management system\\inventory \u0026 sales management system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E4616D-9D99-460C-8717-17C624C24349}|Inventory \u0026 Sales Management System\\Inventory \u0026 Sales Management System.csproj|solutionrelative:inventory \u0026 sales management system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory \u0026 Sales Management System\\frmMain.cs",
+              "RelativeDocumentMoniker": "Inventory \u0026 Sales Management System\\frmMain.cs",
+              "ToolTip": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory \u0026 Sales Management System\\frmMain.cs",
+              "RelativeToolTip": "Inventory \u0026 Sales Management System\\frmMain.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswMUAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-01-08T09:36:15.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory \u0026 Sales Management System\\frmMain.cs",
+              "RelativeDocumentMoniker": "Inventory \u0026 Sales Management System\\frmMain.cs",
+              "ToolTip": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory \u0026 Sales Management System\\frmMain.cs [Design]",
+              "RelativeToolTip": "Inventory \u0026 Sales Management System\\frmMain.cs [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-01-08T12:20:48.257Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

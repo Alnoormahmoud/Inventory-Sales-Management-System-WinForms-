@@ -1,0 +1,15 @@
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\BussenessAccesses.csproj.AssemblyReference.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\BussenessAccesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\BussenessAccesses.AssemblyInfoInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\BussenessAccesses.AssemblyInfo.cs
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\BussenessAccesses.csproj.CoreCompileInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\BussenessAccesses.deps.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\BussenessAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\BussenessAccesses.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\DataAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\DataAccesses.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\Bussenes.EE105EDA.Up2Date
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\BussenessAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\refint\BussenessAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\BussenessAccesses.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\ref\BussenessAccesses.dll

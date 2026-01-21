@@ -1,0 +1,113 @@
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Inventory & Sales Management System.exe
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Inventory & Sales Management System.deps.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Inventory & Sales Management System.runtimeconfig.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Inventory & Sales Management System.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Inventory & Sales Management System.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.csproj.GenerateResource.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.AssemblyInfoInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.AssemblyInfo.cs
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.csproj.CoreCompileInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\refint\Inventory & Sales Management System.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.genruntimeconfig.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\ref\Inventory & Sales Management System.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\BussenessAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\DataAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\BussenessAccesses.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\DataAccesses.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory & Sales Management System.csproj.AssemblyReference.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventor.668C5543.Up2Date
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Serilog.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Serilog.Sinks.File.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory___Sales_Management_System.frmMain.resources
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Inventory & Sales Management System\obj\Debug\net8.0-windows\Inventory___Sales_Management_System.Properties.Resources.resources

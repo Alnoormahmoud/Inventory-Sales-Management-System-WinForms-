@@ -1,0 +1,11 @@
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\Busseness.deps.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\Busseness.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\bin\Debug\net8.0\Busseness.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\Busseness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\Busseness.AssemblyInfoInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\Busseness.AssemblyInfo.cs
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\Busseness.csproj.CoreCompileInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\Busseness.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\refint\Busseness.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\Busseness.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Busseness\obj\Debug\net8.0\ref\Busseness.dll
