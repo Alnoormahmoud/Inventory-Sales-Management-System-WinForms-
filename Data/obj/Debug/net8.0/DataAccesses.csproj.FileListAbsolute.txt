@@ -10,3 +10,19 @@ C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management 
 C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Data\obj\Debug\net8.0\DataAccesses.pdb
 C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Data\obj\Debug\net8.0\ref\DataAccesses.dll
 C:\Users\alnoo\OneDrive\Documents\Desktop\Course20\Inventory & Sales Management System\Data\obj\Debug\net8.0\DataAccesses.csproj.AssemblyReference.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\bin\Debug\net8.0\DataAccesses.deps.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\bin\Debug\net8.0\DataAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\bin\Debug\net8.0\DataAccesses.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.csproj.AssemblyReference.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.AssemblyInfoInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.AssemblyInfo.cs
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.csproj.CoreCompileInputs.cache
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.sourcelink.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\refint\DataAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.pdb
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\ref\DataAccesses.dll
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\bin\Debug\net8.0\appsettings.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\bin\Debug\net8.0\DataAccesses.runtimeconfig.json
+C:\Users\alnoo\OneDrive\Documents\Desktop\Inventory Management System\Data\obj\Debug\net8.0\DataAccesses.genruntimeconfig.cache

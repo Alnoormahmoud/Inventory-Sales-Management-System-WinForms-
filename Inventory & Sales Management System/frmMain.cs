@@ -52,10 +52,6 @@ namespace Inventory___Sales_Management_System
 
                 //Icon and Title
 
-
-                lblFormTitle.Text = Currentbtn.Text;
-                lblFormTitle.ForeColor = color;
-
             }
         }
 
@@ -63,10 +59,10 @@ namespace Inventory___Sales_Management_System
         {
             if (Currentbtn != null)
             {
-                Currentbtn.BackColor = Color.Blue;//FromArgb(31, 41, 55);
-                Currentbtn.ForeColor = Color.Cornsilk;
+                Currentbtn.BackColor = Color.Teal;//FromArgb(31, 41, 55);
+                Currentbtn.ForeColor = Color.FloralWhite;
                 Currentbtn.TextAlign = ContentAlignment.MiddleRight;
-                Currentbtn.IconColor = Color.Cornsilk;
+                Currentbtn.IconColor = Color.FloralWhite;
                 Currentbtn.TextImageRelation = TextImageRelation.TextBeforeImage;
                 Currentbtn.ImageAlign = ContentAlignment.MiddleRight;
             }
@@ -76,36 +72,43 @@ namespace Inventory___Sales_Management_System
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            OpenChildForm(new frmChildMain());
 
         }
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-            ActiveteBtn(sender, Color.AliceBlue);
- 
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+            OpenChildForm(new frmChildMain());
+
+
         }
 
         private void iconButton2_Click(object sender, EventArgs e)
         {
-            ActiveteBtn(sender, Color.YellowGreen);
- 
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+
+            OpenChildForm(new frmChildMain());
 
         }
 
         private void iconButton3_Click(object sender, EventArgs e)
         {
-            ActiveteBtn(sender, Color.Bisque);
-         }
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+        }
 
         private void iconButton4_Click(object sender, EventArgs e)
         {
-            ActiveteBtn(sender, Color.Turquoise);
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+            OpenChildForm(new frmProducts());
 
         }
 
         private void iconButton5_Click(object sender, EventArgs e)
         {
-            ActiveteBtn(sender, Color.AliceBlue);
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+            OpenChildForm(new frmChildMain());
+
 
         }
         private void guna2Panel2_Paint(object sender, PaintEventArgs e)
@@ -126,8 +129,7 @@ namespace Inventory___Sales_Management_System
 
             Leftborderbtn.Visible = false;
 
-            lblFormTitle.Text = "الشاشه الرئيسيه";
-            lblFormTitle.ForeColor = Color.DarkOrchid;
+
         }
 
 
@@ -174,14 +176,7 @@ namespace Inventory___Sales_Management_System
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            if (WindowState == FormWindowState.Normal)
-                WindowState = FormWindowState.Maximized;
-            else
-                WindowState = FormWindowState.Normal;
 
-        }
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -189,19 +184,48 @@ namespace Inventory___Sales_Management_System
 
         }
 
-        private void iconPictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void ibReports_Click(object sender, EventArgs e)
         {
-            ActiveteBtn(sender, Color.MediumOrchid);
-         }
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+        }
 
         private void ibPurchases_Click(object sender, EventArgs e)
         {
-            ActiveteBtn(sender, Color.Chocolate);
-         }
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+        }
+
+        private void iconButton3_Click_1(object sender, EventArgs e)
+        {
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+ 
+            OpenChildForm(new frmSupplayers());
+ 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Normal)
+                WindowState = FormWindowState.Maximized;
+            else
+                WindowState = FormWindowState.Normal;
+        }
+
+        private void iconButton2_Click_1(object sender, EventArgs e)
+        {
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+
+        }
+
+        private void iconButton1_Click_1(object sender, EventArgs e)
+        {
+            ActiveteBtn(sender, Color.BlanchedAlmond);
+
+        }
+
+        private void panel12_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
