@@ -96,7 +96,7 @@
             btnAddNew.Font = new Font("Segoe UI", 13F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnAddNew.ForeColor = Color.AliceBlue;
             btnAddNew.ImeMode = ImeMode.On;
-            btnAddNew.Location = new Point(986, 458);
+            btnAddNew.Location = new Point(988, 453);
             btnAddNew.Name = "btnAddNew";
             btnAddNew.PressedColor = Color.CadetBlue;
             btnAddNew.ShadowDecoration.CustomizableEdges = customizableEdges2;

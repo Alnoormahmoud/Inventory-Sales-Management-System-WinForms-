@@ -31,7 +31,6 @@ namespace BussenessAccesses
                         ImagePath = p.مسارالصورة
                     })
                     .ToListAsync();
-
             }
         }
 
@@ -60,8 +59,7 @@ namespace BussenessAccesses
 
             // 💾 Save using Data Access
             return await المنتجات.AddAsync(product);
-        }
-        
+        }        
     }
 }
      
