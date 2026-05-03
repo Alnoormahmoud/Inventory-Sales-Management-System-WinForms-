@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v9vBKfPCgck=",
+  "dgSpecHash": "R6rPMncJQl8=",
   "success": true,
   "projectFilePath": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory & Sales Management System\\Inventory & Sales Management System.csproj",
   "expectedPackageFiles": [
@@ -148,7 +148,7 @@
       "filePath": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory & Sales Management System\\Inventory & Sales Management System.csproj",
       "libraryId": "LiveCharts",
       "targetGraphs": [
-        "net8.0-windows7.0"
+        "net8.0-windows"
       ]
     },
     {
@@ -160,7 +160,7 @@
       "filePath": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory & Sales Management System\\Inventory & Sales Management System.csproj",
       "libraryId": "LiveCharts.WinForms",
       "targetGraphs": [
-        "net8.0-windows7.0"
+        "net8.0-windows"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "filePath": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory & Sales Management System\\Inventory & Sales Management System.csproj",
       "libraryId": "LiveCharts.Wpf",
       "targetGraphs": [
-        "net8.0-windows7.0"
+        "net8.0-windows"
       ]
     },
     {
@@ -184,7 +184,7 @@
       "filePath": "C:\\Users\\alnoo\\OneDrive\\Documents\\Desktop\\Inventory Management System\\Inventory & Sales Management System\\Inventory & Sales Management System.csproj",
       "libraryId": "Microsoft.ReportViewer.WinForms",
       "targetGraphs": [
-        "net8.0-windows7.0"
+        "net8.0-windows"
       ]
     }
   ]
